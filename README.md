@@ -42,7 +42,7 @@ Run Linux or other Operating Systems in your browser!
 https://bellard.org/jslinux/
 
 ## Topics
- *  [Linux Basic Commands](https://github.com/DiveshR/linux-notes/blob/main/linux-basic-commands.md) (10 commands)
+ *  [Linux Basic Commands](https://github.com/DiveshR/linux-notes/blob/main/linux-basic-commands.md) (11 commands)
 
 
 
