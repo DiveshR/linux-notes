@@ -47,8 +47,3 @@ Type cd and enter
 ```
 cd
 ```
-### 11. How to go directory to home location directory?
-Type cd and enter
-```
-cd
-```
